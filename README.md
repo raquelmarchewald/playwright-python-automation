@@ -23,6 +23,12 @@ The login test:
 - Verifies navigation to the inventory page
 - Verifies that the Products page is visible
 
+The Cart Test:
+
+- Logs in with valid credentials
+- Clicks the first "Add to cart" button
+- Verifies that the shopping cart badge displays '1'
+
 ## Installation
 
 Create and activate a virtual environment:
