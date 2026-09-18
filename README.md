@@ -1,6 +1,6 @@
 # Playwright Python Automation Portfolio
 
-This project contains beginner-level automated tests created with Python, Playwright, and pytest.
+This project demonstrates UI test automation using Python, Playwright, and pytest, including login validation, navigation checks, and element visibility assertions.
 
 ## Tools Used
 
